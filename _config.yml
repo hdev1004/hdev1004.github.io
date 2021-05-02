@@ -5,12 +5,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://future-imperfect.kaptn.ru" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
-  name: "Viktoriya Kapitonenko"
-  last_name: "Kapitonenko"
-  cv: "//kaptn.ru"
+  name: "하프"
+  last_name: "개발자"
+  cv: "//blog.naver.com/zlatmgpdjtiq"
   avatar: "/images/avatar.jpeg"
-  github_username: kaptn3
-  email: vika@kaptn.ru
+  github_username: hdev1004
+  email: h.dev@kakao.com
   vk_id: id201664979
   telegram_name: vikapitoshka
   logo: "/images/logo.svg"
