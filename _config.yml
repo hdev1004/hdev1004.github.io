@@ -76,12 +76,11 @@ theme_mode: # [light|dark]
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
-#
 # e.g. 'https://cdn.com'
-img_cdn: "https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images@f4e0354b674f65a53b8917f0f786ed2956898cc1"
+img_cdn: "https://github.com/hdev1004/hdev1004.github.io/blob/main/assets/img/favicons/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/android-chrome-192x192.png?raw=true"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
