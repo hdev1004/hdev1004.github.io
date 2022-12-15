@@ -25,6 +25,7 @@
     "gulp-insert": "^0.5.0",
     "gulp-rename": "^2.0.0",
     "gulp-uglify": "^3.0.2",
+    "jekyll": "^3.0.0-beta1",
     "uglify-js": "^3.14.3"
   }
 }
